@@ -1385,6 +1385,27 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8047"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8344"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8368"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1393,11 +1414,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="417.9363"
-     inkscape:cy="901.55393"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="268.91266"
+     inkscape:cy="437.69604"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="697"
@@ -1419,7 +1440,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1435,7 +1456,7 @@
        height="728.61285"
        x="-0.29263341"
        y="323.771"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1445,7 +1466,7 @@
        height="728.61267"
        x="180.17046"
        y="323.771"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1455,7 +1476,7 @@
        height="728.61267"
        x="360.63354"
        y="323.771"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1464,7 +1485,10 @@
        width="886.75861"
        height="124.4508"
        x="-75"
-       y="8.672574" />
+       y="8.672574"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#71c837;fill-opacity:1;stroke:#786721;stroke-width:0.18993023;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4560"
@@ -1472,7 +1496,7 @@
        height="208.57367"
        x="-0.86271966"
        y="115.21486"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1482,7 +1506,7 @@
        height="43.870056"
        x="0.62132037"
        y="324.37082"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1492,7 +1516,7 @@
        height="940.00696"
        x="540.28876"
        y="113.78731"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -1500,7 +1524,7 @@
        id="flowRoot4584"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(0.70721153,0,0,0.70721153,276.99472,18.949207)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586"><rect
@@ -1516,7 +1540,7 @@
        id="flowRoot4584-5"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(0.70721153,0,0,0.70721153,457.94008,20.433094)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-5"><rect
@@ -1532,7 +1556,7 @@
        id="flowRoot4584-5-1"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(0.70721153,0,0,0.70721153,637.92196,20.433094)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-5-9"><rect
@@ -1547,7 +1571,7 @@
        transform="matrix(0.43926007,0,0,0.43926007,-1.7290343,-3.0072208)"
        style="display:inline"
        id="g4295"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1608,7 +1632,7 @@
        id="flowRoot4584-4"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(1.1059981,0,0,1.1059981,458.50023,-343.46638)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-9"><rect
@@ -1625,7 +1649,7 @@
        height="88.564796"
        x="245.02792"
        y="27.312023"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -1633,7 +1657,7 @@
        id="flowRoot4584-5-16"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(0.75581045,0,0,0.75581045,538.17359,-302.48194)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-5-2"><rect
@@ -1660,7 +1684,7 @@
        id="flowRoot4584-5-16-6-3"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(0.70721153,0,0,0.70721153,333.63793,-100.18187)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-5-2-0-9"><rect
@@ -1677,7 +1701,7 @@
        height="403.6539"
        x="540"
        y="323.36218"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1687,7 +1711,7 @@
        height="57.412708"
        x="540.21674"
        y="326.65549"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -1695,7 +1719,7 @@
        id="flowRoot4584-1"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(1.711015,0,0,1.711015,1313.774,-431.68402)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-0"><rect
@@ -1719,7 +1743,7 @@
        height="183.84776"
        x="441.29352"
        y="114.88072"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1729,7 +1753,7 @@
        height="40.870056"
        x="440.20605"
        y="115.25557"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -1737,7 +1761,7 @@
        id="flowRoot4584-1-0"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#e2e3db;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(0.82405017,0,0,0.82405017,844.67378,-232.39346)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-0-3"><rect
@@ -1752,7 +1776,7 @@
        transform="matrix(0.42837789,0,0,0.42837789,430.41381,94.74051)"
        id="layer1-4"
        inkscape:label="Layer 1"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1812,7 +1836,7 @@
        i:knockout="Off"
        id="Layer_1"
        transform="matrix(0.17676328,0,0,0.17676328,572.45276,197.10217)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -2055,7 +2079,7 @@
     <g
        id="g3461"
        transform="matrix(0.16012261,0,0,0.16012261,464.53196,217.08345)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -2074,7 +2098,7 @@
     <g
        id="g4550"
        transform="matrix(0.3671163,0,0,0.3671163,542.52411,255.18073)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -2120,7 +2144,7 @@
     <g
        id="g4654"
        transform="matrix(0.19905423,0,0,0.19905423,483.41121,250.25346)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -2227,7 +2251,7 @@
     <g
        id="g5314"
        transform="matrix(0.29086848,0,0,0.29086848,655.03288,193.59628)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -2258,14 +2282,14 @@
            id="g5330">
           <polygon
              id="polygon5332"
-             points="2.587,19.211 21.224,19.626 161.878,19.626 180.493,19.246 161.878,18.83 21.224,18.83 "
+             points="161.878,18.83 21.224,18.83 2.587,19.211 21.224,19.626 161.878,19.626 180.493,19.246 "
              style="fill:#e36f1e;stroke:#e36f1e;stroke-width:0.25" />
         </g>
         <g
            id="g5334">
           <polygon
              id="polygon5336"
-             points="2.587,68.361 21.224,68.771 161.878,68.771 180.493,68.371 161.878,67.975 21.224,67.975 "
+             points="161.878,67.975 21.224,67.975 2.587,68.361 21.224,68.771 161.878,68.771 180.493,68.371 "
              style="fill:#e36f1e;stroke:#e36f1e;stroke-width:0.25" />
         </g>
       </g>
@@ -2277,7 +2301,7 @@
        height="16.38678"
        width="88.681381"
        xlink:href="file:///home/scaredofrabbits/code/whydjango-ideas/source_material/mochigames_logo02.png"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
@@ -2287,14 +2311,14 @@
        height="15.886505"
        width="70.218353"
        xlink:href="file:///home/scaredofrabbits/code/whydjango/design/source_material/compete_logo.png"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        style="overflow:visible"
        id="g5577"
        transform="matrix(0.20803527,0,0,0.20803527,503.2815,192.96228)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -2342,7 +2366,7 @@
        height="9.2128439"
        width="79.984238"
        xlink:href="file:///home/scaredofrabbits/code/whydjango/design/source_material/disqus-dc-inline.png"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
@@ -2352,7 +2376,7 @@
        height="102.6"
        width="152"
        xlink:href="file:///home/scaredofrabbits/code/whydjango-ideas/source_material/business.jpg"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
@@ -2362,17 +2386,7 @@
        height="103.52222"
        width="154"
        xlink:href="file:///home/scaredofrabbits/code/whydjango-ideas/source_material/developers.jpg"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <image
-       y="403.81595"
-       x="555.60138"
-       id="image5978"
-       height="116.13081"
-       width="176.81326"
-       xlink:href="file:///home/scaredofrabbits/code/whydjango-ideas/source_material/mahalo_screenshot.png"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2382,7 +2396,7 @@
        height="14"
        x="0.62132037"
        y="369.24088"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2392,7 +2406,7 @@
        height="615.18292"
        x="176.77669"
        y="324.62799"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2402,7 +2416,7 @@
        height="615.18292"
        x="356.77667"
        y="324.62799"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2412,7 +2426,7 @@
        height="45.42643"
        x="176.77669"
        y="323.62799"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2422,7 +2436,7 @@
        height="45.42643"
        x="356.77667"
        y="323.62799"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -2430,7 +2444,7 @@
        id="flowRoot4584-5-16-6-3-1"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="matrix(0.70721153,0,0,0.70721153,333.70865,-71.880932)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-5-2-0-9-1"><rect
@@ -2447,7 +2461,7 @@
        height="26.602863"
        x="-0.10465417"
        y="0.098283231"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2457,7 +2471,7 @@
        height="14.320673"
        x="-0.11280797"
        y="12.473103"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2467,7 +2481,7 @@
        height="8.7984638"
        x="-0.12114076"
        y="18.000437"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2477,7 +2491,7 @@
        height="3.5738766"
        x="-0.13209832"
        y="23.246597"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
@@ -2487,7 +2501,7 @@
        height="99.158699"
        width="155.08571"
        xlink:href="file:///home/scaredofrabbits/code/whydjango-ideas/source_material/creatives.jpg"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -2495,7 +2509,7 @@
        id="flowRoot4584-1-3"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="matrix(1.3875283,0,0,1.3875283,1170.336,-260.73917)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-0-33"><rect
@@ -2513,7 +2527,7 @@
        x="540.19952"
        y="-391.49432"
        transform="scale(1,-1)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2524,7 +2538,7 @@
        x="540.19995"
        y="-723.30298"
        transform="scale(1,-1)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -2532,7 +2546,7 @@
        id="flowRoot4584-1-0-1"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#71c837;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="matrix(1.6071748,0,0,1.6071748,1242.5608,-591.00237)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-0-3-2"><rect
@@ -2548,7 +2562,7 @@
        id="flowRoot4584-1-0-6"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#e2e3db;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="matrix(0.82405017,0,0,0.82405017,895.67378,-232.5086)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-0-3-8"><rect
@@ -2692,7 +2706,7 @@
        id="flowRoot4584-5-16-6"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="matrix(0.70721153,0,0,0.70721153,333.80766,-128.24235)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-5-2-0"><rect
@@ -2718,7 +2732,7 @@
        inkscape:rounded="0.66"
        inkscape:randomized="0"
        d="m -149.19953,64.53401 c -2.02431,6.362135 -5.12351,-3.414969 -10.05768,1.082643 -4.93418,4.497613 4.51483,8.486718 -2.0071,9.914677 -6.52193,1.427958 0.3957,-6.144577 -5.96644,-8.168893 -6.36213,-2.024315 -5.09229,8.153321 -9.58991,3.219145 -4.49761,-4.934176 5.51921,-2.729608 4.09125,-9.251535 -1.42796,-6.521928 -9.60713,-0.333397 -7.58281,-6.695531 2.02431,-6.362135 5.12351,3.414969 10.05769,-1.082644 4.93417,-4.497612 -4.51484,-8.486717 2.00709,-9.914676 6.52193,-1.427959 -0.3957,6.144577 5.96644,8.168893 6.36213,2.024315 5.09229,-8.153322 9.58991,-3.219146 4.49761,4.934176 -5.51921,2.729608 -4.09125,9.251536 1.42796,6.521928 9.60713,0.333397 7.58281,6.695531 z"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2737,7 +2751,7 @@
        inkscape:rounded="0.66"
        inkscape:randomized="0"
        d="m -149.19953,64.53401 c -2.02431,6.362135 -5.12351,-3.414969 -10.05768,1.082643 -4.93418,4.497613 4.51483,8.486718 -2.0071,9.914677 -6.52193,1.427958 0.3957,-6.144577 -5.96644,-8.168893 -6.36213,-2.024315 -5.09229,8.153321 -9.58991,3.219145 -4.49761,-4.934176 5.51921,-2.729608 4.09125,-9.251535 -1.42796,-6.521928 -9.60713,-0.333397 -7.58281,-6.695531 2.02431,-6.362135 5.12351,3.414969 10.05769,-1.082644 4.93417,-4.497612 -4.51484,-8.486717 2.00709,-9.914676 6.52193,-1.427959 -0.3957,6.144577 5.96644,8.168893 6.36213,2.024315 5.09229,-8.153322 9.58991,-3.219146 4.49761,4.934176 -5.51921,2.729608 -4.09125,9.251536 1.42796,6.521928 9.60713,0.333397 7.58281,6.695531 z"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2756,7 +2770,7 @@
        inkscape:rounded="0.66"
        inkscape:randomized="0"
        d="m -149.19953,64.53401 c -2.02431,6.362135 -5.12351,-3.414969 -10.05768,1.082643 -4.93418,4.497613 4.51483,8.486718 -2.0071,9.914677 -6.52193,1.427958 0.3957,-6.144577 -5.96644,-8.168893 -6.36213,-2.024315 -5.09229,8.153321 -9.58991,3.219145 -4.49761,-4.934176 5.51921,-2.729608 4.09125,-9.251535 -1.42796,-6.521928 -9.60713,-0.333397 -7.58281,-6.695531 2.02431,-6.362135 5.12351,3.414969 10.05769,-1.082644 4.93417,-4.497612 -4.51484,-8.486717 2.00709,-9.914676 6.52193,-1.427959 -0.3957,6.144577 5.96644,8.168893 6.36213,2.024315 5.09229,-8.153322 9.58991,-3.219146 4.49761,4.934176 -5.51921,2.729608 -4.09125,9.251536 1.42796,6.521928 9.60713,0.333397 7.58281,6.695531 z"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -2764,7 +2778,7 @@
        id="flowRoot4584-5-16-6-3-1-8"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="matrix(0.70721153,0,0,0.70721153,333.76523,-43.495153)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4586-5-2-0-9-1-0"><rect
@@ -2790,7 +2804,7 @@
        inkscape:rounded="0.66"
        inkscape:randomized="0"
        d="m -149.19953,64.53401 c -2.02431,6.362135 -5.12351,-3.414969 -10.05768,1.082643 -4.93418,4.497613 4.51483,8.486718 -2.0071,9.914677 -6.52193,1.427958 0.3957,-6.144577 -5.96644,-8.168893 -6.36213,-2.024315 -5.09229,8.153321 -9.58991,3.219145 -4.49761,-4.934176 5.51921,-2.729608 4.09125,-9.251535 -1.42796,-6.521928 -9.60713,-0.333397 -7.58281,-6.695531 2.02431,-6.362135 5.12351,3.414969 10.05769,-1.082644 4.93417,-4.497612 -4.51484,-8.486717 2.00709,-9.914676 6.52193,-1.427959 -0.3957,6.144577 5.96644,8.168893 6.36213,2.024315 5.09229,-8.153322 9.58991,-3.219146 4.49761,4.934176 -5.51921,2.729608 -4.09125,9.251536 1.42796,6.521928 9.60713,0.333397 7.58281,6.695531 z"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2800,7 +2814,7 @@
        height="17.407516"
        x="245.00485"
        y="94.269302"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
@@ -2808,7 +2822,7 @@
        id="flowRoot3914"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(41,0)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3916"><rect
@@ -2867,7 +2881,7 @@
        id="flowRoot3914-4"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="translate(218.25015,1.028937)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3916-3"><rect
@@ -2906,7 +2920,7 @@
        id="flowRoot3914-4-4"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="translate(400.25015,0.028937)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3916-3-8"><rect
@@ -2960,8 +2974,8 @@
        xml:space="preserve"
        id="flowRoot4022"
        style="font-size:40px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Charter Bold"
-       transform="translate(-13,-11)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       transform="translate(-13,-6.7573593)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4024"><rect
@@ -2976,8 +2990,8 @@
        xml:space="preserve"
        id="flowRoot3914-4-2"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       transform="translate(574.25015,56.028937)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       transform="translate(574.25015,60.271578)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3916-3-4"><rect
@@ -2996,7 +3010,7 @@
        id="flowRoot3914-4-2-0"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#22280b;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        transform="translate(687.15019,180.69567)"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3916-3-4-2"><rect
@@ -3011,7 +3025,7 @@
        style="fill:none;stroke:#22280b;stroke-width:0.26641983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 668.78375,699.69789 59.43286,0"
        id="path4133"
-       inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -3026,7 +3040,10 @@
          y="694.36218" /></text>
     <g
        id="g5117"
-       transform="translate(45,0)">
+       transform="translate(45,0)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="928.28009"
          x="45.91795"
@@ -3050,7 +3067,10 @@
     <g
        transform="translate(185,7.0333481e-6)"
        style="display:inline"
-       id="g5049-1">
+       id="g5049-1"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g5124"
          transform="translate(38,0)">
@@ -3078,7 +3098,10 @@
     <g
        transform="translate(365,0)"
        style="display:inline"
-       id="g5049-8">
+       id="g5049-8"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g5131"
          transform="translate(60,-1.5497208e-5)">
@@ -3112,7 +3135,10 @@
        sodipodi:rx="3.1819806"
        sodipodi:ry="3.1819806"
        d="m 387.49451,669.46387 a 3.1819806,3.1819806 0 1 1 -6.36396,0 3.1819806,3.1819806 0 1 1 6.36396,0 z"
-       transform="translate(-0.35354823,0.70714903)" />
+       transform="translate(-0.35354823,0.70714903)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -3122,7 +3148,10 @@
        sodipodi:rx="3.1819806"
        sodipodi:ry="3.1819806"
        d="m 387.49451,669.46387 a 3.1819806,3.1819806 0 1 1 -6.36396,0 3.1819806,3.1819806 0 1 1 6.36396,0 z"
-       transform="translate(-0.35354823,28.213588)" />
+       transform="translate(-0.35354823,28.213588)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -3132,7 +3161,10 @@
        sodipodi:rx="3.1819806"
        sodipodi:ry="3.1819806"
        d="m 387.49451,669.46387 a 3.1819806,3.1819806 0 1 1 -6.36396,0 3.1819806,3.1819806 0 1 1 6.36396,0 z"
-       transform="translate(-0.35354823,55.720027)" />
+       transform="translate(-0.35354823,55.720027)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -3142,7 +3174,10 @@
        sodipodi:rx="3.1819806"
        sodipodi:ry="3.1819806"
        d="m 387.49451,669.46387 a 3.1819806,3.1819806 0 1 1 -6.36396,0 3.1819806,3.1819806 0 1 1 6.36396,0 z"
-       transform="translate(-0.35354823,83.226467)" />
+       transform="translate(-0.35354823,83.226467)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -3152,7 +3187,10 @@
        sodipodi:rx="3.1819806"
        sodipodi:ry="3.1819806"
        d="m 387.49451,669.46387 a 3.1819806,3.1819806 0 1 1 -6.36396,0 3.1819806,3.1819806 0 1 1 6.36396,0 z"
-       transform="translate(-0.35354823,110.73291)" />
+       transform="translate(-0.35354823,110.73291)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
@@ -3162,13 +3200,123 @@
        sodipodi:rx="3.1819806"
        sodipodi:ry="3.1819806"
        d="m 387.49451,669.46387 a 3.1819806,3.1819806 0 1 1 -6.36396,0 3.1819806,3.1819806 0 1 1 6.36396,0 z"
-       transform="translate(-0.35354823,138.23938)" />
+       transform="translate(-0.35354823,138.23938)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3914-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       transform="translate(586.46363,238.17471)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3916-9"><rect
+           id="rect3918-6"
+           width="177.1127"
+           height="436.89951"
+           x="-21"
+           y="506.36218" /></flowRegion><flowPara
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT Bold"
+         id="flowPara4995-9">Other Resources</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara5011-1" /><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8254">Articles</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8258">Blogs</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8330">Developers on Twitter</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8332" /><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8306">Books</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8300">Conferences</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8292">Classes &amp; Training</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8318" /><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8322">FAQ</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8326">Comparison Grid</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8324" /><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8320">Find an Expert</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8312">Jobs</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8284" /><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8314">Django Software Foundation</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8264">Python Software Foundation</flowPara><flowPara
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Helvetica LT;-inkscape-font-specification:Helvetica LT"
+         id="flowPara8268" /></flowRoot>    <path
+       style="fill:#24221c;fill-opacity:1;stroke:none"
+       d="m 516.64589,-16.974387 c 0,0 -2.16845,0.968242 -1.79523,1.964851 0.48217,1.287512 2.5275,0.275495 2.5275,0.275495 l 0.56001,0.749529 c -0.82758,0.332929 -1.91777,1.195978 -1.92396,1.431891 -0.49619,0.767926 -0.42178,1.535851 -0.44589,2.303777 l 0.72963,0.10059 c 0.11508,-0.333028 0.0765,-1.120887 0.42412,-1.936708 0.28899,-0.407846 0.85092,-0.482739 1.15002,-0.690605 -0.33093,0.670232 -0.60352,1.363802 -0.44589,2.229462 0.0536,0.7277027 0.33423,1.3442957 0.59452,1.8578837 l 0.81934,0.03716 c -0.17435,-0.430729 -0.45091,-0.845388 -0.58815,-1.9213157 0.0232,-0.488351 0.39303,-1.101727 0.73942,-1.61768 1.78458,0.744665 2.63689,0.448281 3.57538,0.02627 -0.51037,0.896546 -0.39825,1.31444 -0.45864,1.766311 0.0587,0.7092297 0.13134,1.2468637 0.36256,1.7572937 l 0.70336,0.0045 c -0.0961,-0.366262 -0.19217,-0.755021 -0.28825,-1.4600327 -0.0469,-0.405721 0.22693,-1.168575 0.45942,-1.364725 -0.0195,0.45063 0.0745,1.254771 0.32353,1.6664947 0.18974,0.454327 0.45501,0.675487 0.74316,1.031399 l 0.80845,0 c -0.37253,-0.523887 -0.83786,-0.969462 -0.93982,-1.3902257 -0.16209,-0.687117 -0.20811,-1.352775 -0.15076,-2.134297 0.2546,-0.421013 0.31263,-0.71485 0.25211,-1.131845 0,0 0.47591,-0.397078 0.99611,0.271761 0.52021,0.668838 0.14039,1.769271 0.14039,1.769271 l -0.0496,0.698847 c 0,0 1.71376,-0.907496 1.04493,-2.691065 -0.66884,-1.783569 -2.26772,-0.55099 -2.26772,-0.55099 0,0 -0.2351,-0.570192 -1.13463,-0.935318 -1.11338,-0.451932 -3.07091,0.05596 -3.94058,0.03903 -0.42335,-0.0082 -0.88992,-1.451017 -0.88992,-1.451017 0.24754,-0.194354 0.43468,-0.489367 0.55737,-0.891785 l -0.89179,0.260104 -0.5157,-0.297261 -0.37608,-1.003258 c -0.34748,0.408735 -0.48165,0.817469 -0.40874,1.226204 l 1e-5,0 z"
+       id="path8334"
+       sodipodi:nodetypes="csccccccccccccccccccccccccsccscssccccccc" />
+    <path
+       style="fill:#24221c;fill-opacity:1;stroke:none;display:inline"
+       d="m 548.45985,-15.49801 c -0.61202,0.106315 -1.33783,0.733859 -1.16161,1.240981 0.23259,0.669323 0.88263,0.665642 1.51236,0.42136 0.66827,-0.259237 1.62452,-0.208365 1.62452,-0.208365 l 0.62251,0.687029 c -0.82758,0.332929 -2.19902,1.445978 -2.20521,1.681891 -0.49619,0.767926 -0.42178,1.535851 -0.44589,2.3037774 l 0.72963,0.10059 c 0.11508,-0.333028 0.0765,-1.1208874 0.42412,-1.9367084 0.28899,-0.407846 0.85092,-0.482739 1.15002,-0.690605 -0.33093,0.670232 -0.60352,1.363802 -0.44589,2.2294624 0.0536,0.7277027 0.33423,1.3442957 0.59452,1.8578837 l 0.81934,0.03716 c -0.17435,-0.430729 -0.45091,-0.845388 -0.58815,-1.9213157 0.0232,-0.4883514 0.39303,-1.1017274 0.73942,-1.6176804 1.22208,0.994665 1.82179,2.660592 2.07278,3.738581 -0.51037,0.896546 -0.39825,1.31444 -0.45864,1.766311 0.0587,0.7092297 0.13134,1.2468637 0.36256,1.7572937 l 0.70336,0.0045 c -0.0961,-0.366262 -0.19217,-0.755021 -0.28825,-1.4600327 -0.0469,-0.405721 0.22693,-1.731075 0.45942,-1.927225 -0.0195,0.45063 0.0745,1.817271 0.32353,2.2289947 0.18974,0.454327 0.45501,0.675487 0.74316,1.031399 l 0.80845,0 c -0.37253,-0.523887 -0.83786,-0.969462 -0.93982,-1.3902257 -0.16209,-0.687117 -0.0831,-1.165275 -0.0258,-1.946797 0.2546,-0.421013 0.18763,-0.90235 0.12711,-1.319345 0,0 0.47591,-0.397078 0.99611,0.271761 0.52021,0.668838 0.14039,1.769271 0.14039,1.769271 l -0.0496,0.698847 c 0,0 1.71376,-0.907496 1.04493,-2.691065 -0.66884,-1.783569 -2.26772,-0.55099 -2.26772,-0.55099 0,0 -0.0308,-0.731767 -0.45341,-1.605813 -0.47105,-0.974263 -0.48549,-1.042761 -1.46136,-2.663543 -0.31435,-0.522093 -1.05778,-1.470367 -1.26721,-1.698618 -0.28627,-0.312006 -0.85867,-0.529142 -0.85867,-0.529142 0.24754,-0.194354 0.12218,-0.129992 0.13549,-0.454285 l -0.62616,0.228854 -0.6407,-0.547261 0.0458,-0.550133 c -0.34748,0.408735 -0.6379,0.473719 -0.56499,0.882454 -0.17155,-0.04509 -0.82232,0.533305 -1.43044,0.770749 z"
+       id="path8334-7"
+       sodipodi:nodetypes="cssccccccccccccccccccccccccsccscsssccccccc" />
+    <g
+       id="g8386"
+       transform="translate(-5.5,-0.5)"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <image
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/scaredofrabbits/code/whydjango/design/png_mockups/whydjango_mockup_f.png"
+         xlink:href="file:///home/scaredofrabbits/code/whydjango-ideas/source_material/mahalo_screenshot.png"
+         width="176.81326"
+         height="116.13081"
+         id="image5978"
+         x="555.60138"
+         y="403.81595" />
+      <rect
+         y="395.86218"
+         x="548"
+         height="21.5"
+         width="190.5"
+         id="rect8358"
+         style="fill:#c6e9af;fill-opacity:1;stroke:none" />
+      <rect
+         y="517.61218"
+         x="547.75"
+         height="8"
+         width="190.5"
+         id="rect8358-5"
+         style="fill:#c6e9af;fill-opacity:1;stroke:none;display:inline" />
+      <rect
+         y="409.36218"
+         x="548.5"
+         height="110.5"
+         width="13"
+         id="rect8382"
+         style="fill:#c6e9af;fill-opacity:1;stroke:none" />
+      <rect
+         y="411.86218"
+         x="725"
+         height="113.5"
+         width="13.5"
+         id="rect8384"
+         style="fill:#c6e9af;fill-opacity:1;stroke:none" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect5984"
@@ -3188,7 +3336,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="trees"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="fill:#000000;stroke:none;display:inline"
        d="m 394.37868,-7.5322643 0.5,-9.4999927 c 0,0 -7,-0.5 -7.5,-6 -0.5,-5.5 0,-12.000001 6.5,-12.500001 6.5,-0.5 9.5,5.500001 9,10.500001 -0.5,5 -6.5,7.5 -6.5,7.5 l -0.5,9.9999927 -1.5,0 z"
@@ -3329,7 +3478,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="city"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="g6000"
@@ -5071,5 +5221,14 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="ponies"
-     style="display:inline" />
+     style="display:inline">
+    <path
+       style="fill:#24221c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 244.62951,85.979431 c 0,0 160.61559,-0.945946 240.7993,-1.999986 l -0.10356,-16.659903 9.6495,0.04289 0.35355,16.720562 1.51777,-0.207106 -0.20711,-32.819806 11.06371,0.04289 0.45711,33.026912 2.22487,0.04289 -0.20711,-28.473611 9.19239,0 0,27.930718 2.07843,-0.103554 0.39644,-39.84798 10.25305,0 0,39.244427 2.22488,0.04289 0.25,-32.216252 11.77081,-0.103553 -0.10355,32.630465 2.82843,0 -0.35356,-35.708892 9.19239,-11.667262 3.18198,10.606602 0.5,36.269552 1.62132,0.146447 0.35356,-42.426407 8.48528,0 0.7071,-11.667262 0.70711,11.667262 5.3033,0.353553 -0.35355,42.072854 3.18198,-0.353554 -0.35356,-37.123106 12.37437,-0.353553 -0.35355,11.667262 7.90685,0.25 0,25.809397 c 0,0 4.08056,0 4.08056,0 0,0 -0.14958,-22.09633 -0.14958,-22.09633 0,0 10.23887,0.256342 10.23887,0.256342 0,0 0.16071,22.089988 0.16071,22.089988 l 129.22275,-0.5 0,13.435029 -499.86101,-0.5 -0.23223,-9.520815 z"
+       id="path8037"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/scaredofrabbits/code/whydjango-ideas/png_mockups/whydjango_mockup_g.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
 </svg>
