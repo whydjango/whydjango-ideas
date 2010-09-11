@@ -3,6 +3,7 @@ whydjango-ideas
 ###############
 
 This repo contains various materials for whydjango.com, the future business-oriented advocacy site for Django:
+
 * Design mockups
 * SVG files for the design mockups, which contain icons and illustrations
 * Any site copy text not already stored elsewhere
